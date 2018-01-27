@@ -1,0 +1,17 @@
+0;0;4;0!0;0;6;0!0;0;2;0!1;0;0;0!3;0;-4;0!2;0;-4;0!9;0;119;2;171;0;-427;-25!4;0;736;2;100!5;0;632;-151;208!6;0;493;-158!7;0;355;-143;406;-133;404;-407;404;-108;20;500!8;0;-216;-310;-252;-347;764;-310;229;-330;100!
+
+------------- NEW LEVEL EDITION ---------------
+11/1/2016
+Test
+Object 0 has been rotated by 0 located at 4:0
+Object 0 has been rotated by 0 located at 6:0
+Object 0 has been rotated by 0 located at 2:0
+Object 1 has been rotated by 0 located at 0:0
+Object 3 has been rotated by 0 located at -4:0
+Object 2 has been rotated by 0 located at -4:0
+Object 9 has been rotated by 0 located at 119:2
+Object 4 has been rotated by 0 located at 736:2
+Object 5 has been rotated by 0 located at 632:-151
+Object 6 has been rotated by 0 located at 493:-158
+Object 7 has been rotated by 0 located at 355:-143
+Object 8 has been rotated by 0 located at -216:-310

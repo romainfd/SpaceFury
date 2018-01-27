@@ -1,0 +1,11 @@
+10;0;590;2;592;-200;582;208;588;-407;500;500!10;0;488;208;471;-340;488;208;481;-411;20;20!11;0;337;-64;337;-64;337;-64;20;20!11;0;190;-67;190;-67;190;-67;500;500!12;0;-2;-64;20;20!12;0;-213;-69;500;500!
+
+------------- NEW LEVEL EDITION ---------------
+11/6/2016
+FoesExtremes
+Object 10 has been rotated by 0 located at 590:2
+Object 10 has been rotated by 0 located at 488:208
+Object 11 has been rotated by 0 located at 337:-64
+Object 11 has been rotated by 0 located at 190:-67
+Object 12 has been rotated by 0 located at -2:-64
+Object 12 has been rotated by 0 located at -213:-69
