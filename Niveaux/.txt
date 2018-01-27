@@ -1,0 +1,11 @@
+0#
+2.222222;-1.25;3.375#
+False;3;-1#
+False;False;False;False;False;False#
+
+
+------------- NEW LEVEL EDITION ---------------
+7/24/2017
+
+The camera is situated in 2.222222:-1.25 with an orthographic size of 3.375
+Darkness : False for a viewSize of 3 and a clean view of -1seconds

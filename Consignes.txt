@@ -1,0 +1,25 @@
+LANCER UNE VERSION
+Changer la version dans le Scripts du MainMenu et dans le prefab du Scrips/Startlevel
+
+COMMENCER UN NIVEAU
+Mettre un rect transform sur la camera qui servira à positionner le pad et le pause
+Mettre le Background
+Mettre le ToMove
+Mettre les paths puis rocks puis ennemis et base et tout mettre dans le ToMove sauf la caméra (en 2eme évite de prendre par erreur le Scripts, ...)
+Mettre le Scripts
+Mettre l'UI (ajuster le fond)
+Mettre le canvas et l'eventSystem
+Mettre les paths puis rocks puis ennemis et base
+
+CREER UN BOUTON
+GetComponent<UnityEngine.UI.Button>().onClick.AddListener(fonction) et def fonction(sans arg !)
+
+CREER UN NIVEAU 
+Loader "Editor" depuis le menu
+Créer son niveau puis renseigner le chemin où l'enregistrer et le nom "name" du niveau.
+	rq : pour accéder à la partie extreme gauche du niveau, il faut zoomer et se déplacer avec les flèches. je règlerai ce pbm dans la v0.3 normalement.
+Récupérer le fichier texte "name".txt dans le dossier renseigné
+Me l'envoyer
+Quand je l'ai ajouté, retélécharger le jeu
+Depuis le menu loader le niveau : A.Prénom "name" (A pour alpha testeur et maj au début du prénom !)
+	par exemple : A.Romain niveauFun

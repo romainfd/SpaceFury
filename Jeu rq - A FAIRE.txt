@@ -1,0 +1,36 @@
+Le pouvoir 0 = désactivé : utile si rien ou pour quand pouvoir se recharge/est vidé
+	=> on initialise à 0
+
+Pouvoir regler la taille du niveau depuis l'éditeur et assurer qu'il s'affiche tout dans les x>0.25 et y < 0.8
+	=> pouvoir placer la base et éventuellement des bases de sauvegarde
+
+Pouvoir lancer un Play depuis l'éditeur pour tester le niveau en cours
+
+Mettre en page : faire les différents stages, etc...
+
+Etoiles quand on tue des ennemis !
+Explosions sur le lieu d'impact d'un collider pour savoir qu'on est mort ! Que ce soit plus doux !!
+
+Stocker les niveaux sous forme de fichiers texte du format de l'éditeur
+	gérer le passage d'un niveau à l'autre : plus getActiveScene
+	Accéder aux fichiers textes stockés dans un dossier
+	niveaux ne se modifient pas facilement => recommencer tout OU changer l'éditeur
+
+Pouvoirs :
+* PowerEmpty() : faire quelque chose
+
+* boost : 
+	* faire réduire une barre, ou autre : qu'elle est la taille de duration dans Boosting pour donner une idée de combien il reste
+	* permettre au boost de remonter avec le temps ?
+
+* ghost :
+	* que faire des nuages ?
+
+* Jump : faire un autre pouvoir car j'ai créer 3 images possibles déjà
+	Mais bouger le z du joueur => caméra le suit car elle se centre sur le perso puis recule de z = -10
+
+
+Les nuages ne marchent plus
+
+Le titre n'a pas le relief du reste
+

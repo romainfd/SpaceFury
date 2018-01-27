@@ -1,0 +1,20 @@
+25.22159;-2.368404;7.993363#True;10;3#0;0;10;0!0;0;8;0!3;0;12;-2!3;-1;12;2!5;0;1237;5;100!6;0;1372;17!7;0;1531;1;1509;-10;1515;319;1503;-315;100;100!8;0;1689;319;1725;323;1717;-339;1721;-7;100!9;0;1856;259;1856;-232;1856;259!10;0;2003;311;1993;-194;2003;319;2003;-351;500;200!11;0;2193;-29;2193;-29;2193;-29;200;85!12;0;2388;-25;200;79!13;0;2995;-29!
+
+------------- NEW LEVEL EDITION ---------------
+1/24/2017
+TestPrefabs
+The camera is situated in 25.22159:-2.368404 with an orthographic size of 7.993363
+Darkness : True for a viewSize of 10 and a clean view of 3seconds
+Object 0 has been rotated by 0 located at 10:0
+Object 0 has been rotated by 0 located at 8:0
+Object 3 has been rotated by 0 located at 12:-2
+Object 3 has been rotated by -1 located at 12:2
+Object 5 has been rotated by 0 located at 1237:5
+Object 6 has been rotated by 0 located at 1372:17
+Object 7 has been rotated by 0 located at 1531:1
+Object 8 has been rotated by 0 located at 1689:319
+Object 9 has been rotated by 0 located at 1856:259
+Object 10 has been rotated by 0 located at 2003:311
+Object 11 has been rotated by 0 located at 2193:-29
+Object 12 has been rotated by 0 located at 2388:-25
+Object 13 has been rotated by 0 located at 2995:-29

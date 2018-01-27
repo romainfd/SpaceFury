@@ -1,0 +1,19 @@
+0#
+16.70678;-3.008871;5.077469#
+False;3;-1#
+False;False;False;False;False;False#
+4;59;558;115;-1;-1;-1;-1;-1;163!
+4;324;2234;105;-1;-1;-1;-1;-1;226!
+4;147;563;-789;-1;-1;-1;-1;-1;180!
+4;241;2242;-794;-1;-1;-1;-1;-1;191!
+
+
+------------- NEW LEVEL EDITION ---------------
+2/15/2017
+Test
+The camera is situated in 16.70678:-3.008871 with an orthographic size of 5.077469
+Darkness : False for a viewSize of 3 and a clean view of -1seconds
+Object 4 (Comet) has been rotated by 59 located at 558:115
+Object 4 (Comet) has been rotated by 324 located at 2234:105
+Object 4 (Comet) has been rotated by 147 located at 563:-789
+Object 4 (Comet) has been rotated by 241 located at 2242:-794

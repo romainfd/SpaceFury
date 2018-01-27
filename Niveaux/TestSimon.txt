@@ -1,0 +1,37 @@
+2#
+2.611029;-1.468704;3.965501#
+False;10;3#
+False;False;False;False;False;False#
+0;0;0;0;-1;-1;-1;-1;-1;100!
+5;0;-118;-227;-1;-1;-1;-1;-1;148!
+6;0;226;-172;-1;-1;-1;-1;-1!
+7;0;154;-304;281;-318;526;-186;186;-369;-1;-1;-1;-1;-1;100;100!
+8;0;-40;-372;468;-386;-279;-275;94;-330;-1;-1;-1;-1;-1;100!
+9;0;726;-306;722;-2;173;-11;-1;-1;-1;-1;-1!
+10;0;-250;2;-248;26;-256;133;-236;-143;-1;-1;-1;-1;-1;0;504;380!
+11;0;650;-290;650;-290;650;-290;-1;-1;-1;-1;-1;0;100;100!
+12;0;31;-225;-1;-1;-1;-1;-1;0;176;261!
+13;0;-130;4;-1;-1;-1;-1;-1!
+14;0;63;173;-1;-1;-1;-1;-1!
+10;0;422;-222;418;-272;356;-171;422;-272;-1;-1;-1;-1;-1;1;100;100!
+4;1;-350;102;-1;-1;-1;-1;-1;100!
+
+
+------------- NEW LEVEL EDITION ---------------
+2/19/2017
+TestSimon
+The camera is situated in 2.611029:-1.468704 with an orthographic size of 3.965501
+Darkness : False for a viewSize of 10 and a clean view of 3seconds
+Object 0 (Straight Path) has been rotated by 0 located at 0:0
+Object 5 (Explosion Rock) has been rotated by 0 located at -118:-227
+Object 6 (Black Hole) has been rotated by 0 located at 226:-172
+Object 7 (Snow Rock) has been rotated by 0 located at 154:-304
+Object 8 (Magma Rock) has been rotated by 0 located at -40:-372
+Object 9 (Teleport) has been rotated by 0 located at 726:-306
+Object 10 (Following Foe) has been rotated by 0 located at -250:2
+Object 11 (Harpon Foe) has been rotated by 0 located at 650:-290
+Object 12 (Asymptotic Foe) has been rotated by 0 located at 31:-225
+Object 13 (Base) has been rotated by 0 located at -130:4
+Object 14 (Star) has been rotated by 0 located at 63:173
+Object 10 (Following Foe) has been rotated by 0 located at 422:-222
+Object 4 (Comet) has been rotated by 1 located at -350:102

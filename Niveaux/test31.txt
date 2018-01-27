@@ -1,0 +1,13 @@
+0#
+2.222222;-1.25;3.375#
+False;3;-1#
+False;True;True;True;False;False#
+1;0;4;0;-1;-1;-1;-1;-1!
+
+
+------------- NEW LEVEL EDITION ---------------
+8/1/2017
+test31
+The camera is situated in 2.222222:-1.25 with an orthographic size of 3.375
+Darkness : False for a viewSize of 3 and a clean view of -1seconds
+Object 1 (Turn Path) has been rotated by 0 located at 4:0
